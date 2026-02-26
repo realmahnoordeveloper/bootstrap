@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero {
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
+                url("netflix.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    max-width: 800px;
+    margin: auto;
+}
